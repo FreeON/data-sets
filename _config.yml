@@ -8,5 +8,12 @@ footer-links:
 pages_list:
   Main: "/data-sets"
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
 url: http://www.freeon.org/data-sets
 baseurl: "/data-sets"
